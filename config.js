@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['254114148625', 'KANAMBO', true],
+  ['2348022444782', 'Muba', true],
   [''],
   [''] 
 ] //Number of owners
 
-global.mods = ['254114148625','254114148625'] 
-global.prems = ['254114148625', '254114148625', '254114148625']
+global.mods = ['2348022444782','254114148625'] 
+global.prems = ['2348022444782', '254114148625', '254114148625']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'KANAMBO-BOT'
+global.botname = 'Blackbeard'
 global.premium = 'true'
-global.packname = 'MASTER🎯KANMABO☘️' 
-global.author = 'PETER KANAMBO' 
+global.packname = 'kkk' 
+global.author = 'kkkk' 
 global.igfg = '▢ Follow on Instagram\nhttps:\n' 
 global.dygp = 'https://chat.whatsapp.com/Ei8SGOBRMH06aD3mk23fbF'
 global.fgsc = 'https://github.com/Kanambp/KANAMBO-BOT' 
